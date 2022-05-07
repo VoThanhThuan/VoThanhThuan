@@ -8,7 +8,7 @@
 <br>
 <b>"Ngủ 😴 là cách tốt nhất để phục hồi"</b>
 
-<img width="20%" align="right" alt="Github Header" src="https://i.pinimg.com/originals/a5/b9/52/a5b95295fd74e912da875fd3a7320324.gif" />
+<img width="15%" align="right" alt="Github Header" src="https://i.pinimg.com/originals/a5/b9/52/a5b95295fd74e912da875fd3a7320324.gif" />
 
 <p>
   
@@ -21,11 +21,11 @@
 
 <div align="center">
 
-## **Scan Me**
+## **Quét mã QR để xem Portfolio của tui 🤳**
 <a href="https://vothanhthuan.github.io/vtt/"><img src="https://github.com/VoThanhThuan/vtt/blob/master/images/qrcode_vothanhthuan.github.io.png?raw=true" width="200" height="200" alt="WebsiteQR"></a>
 </div>
 
-<img width="40%" align="right" alt="Github Header" src="https://github.com/VoThanhThuan/vtt/blob/master/images/coding_2.gif?raw=true" />
+<img width="30%" align="right" alt="Github Header" src="https://github.com/VoThanhThuan/vtt/blob/master/images/coding_2.gif?raw=true" />
 
 <h3 align="left">Sở thích:</h3>
 
