@@ -8,7 +8,7 @@
 <br>
 <b>"Ngủ 😴 là cách tốt nhất để phục hồi"</b>
 
-<img width="40%" align="right" alt="Github Header" src="Images/git-header.svg" />
+<img width="20%" align="right" alt="Github Header" src="https://i.pinimg.com/originals/a5/b9/52/a5b95295fd74e912da875fd3a7320324.gif" />
 
 <p>
   
@@ -25,7 +25,7 @@
 <a href="https://vothanhthuan.github.io/vtt/"><img src="https://github.com/VoThanhThuan/vtt/blob/master/images/qrcode_vothanhthuan.github.io.png?raw=true" width="200" height="200" alt="WebsiteQR"></a>
 </div>
 
-<img width="40%" align="right" alt="Github Header" src="Images/coding_2.gif" />
+<img width="40%" align="right" alt="Github Header" src="https://github.com/VoThanhThuan/vtt/blob/master/images/coding_2.gif?raw=true" />
 
 <h3 align="left">Sở thích:</h3>
 
@@ -36,7 +36,7 @@
 
 <h3 align="left">Ngôn ngữ:</h3>
 
-- Tiếng Việt ![1f1fb_1f1f3](https://user-images.githubusercontent.com/64771689/167264495-42f77c84-e886-4481-8f1f-09191088b07f.png)🇳
+- Tiếng Việt ![1f1fb_1f1f3](https://user-images.githubusercontent.com/64771689/167264495-42f77c84-e886-4481-8f1f-09191088b07f.png)
 - English
 
 <br><br>
@@ -49,7 +49,7 @@
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/> </a>
 <a href="https://isocpp.org/std/the-standard" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> </a>
-<a href="https://docs.microsoft.com/vi-vn/dotnet/csharp/" target="_blank"> <img src="https://img.shields.io/badge/C%23-CSharp-blueviolet&logo=&logoC%23&Color=white" alt="Java"/> </a>
+<a href="https://docs.microsoft.com/vi-vn/dotnet/csharp/" target="_blank"> <img src="https://img.shields.io/badge/CSharp-blueviolet?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/> </a>
 <a href="https://netbeans.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/netbeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="NetBeans"/> </a>  
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/> </a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm"/></a>
@@ -80,7 +80,7 @@
   
 ![Profile views](https://gpvc.arturio.dev/VoThanhThuan)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-218&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoThanhThuan&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 <details><summary>Contribution Graph</summary>
 <p align="left">
@@ -102,7 +102,7 @@
 <a href="https://gitstalk.netlify.app/VoThanhThuan/" target="_blank"> See My Latest Activities Here</a>
   
 
-<img src ="Images/social_dashboard.svg" align = "left" width = 50%>
+<img src ="https://raw.githubusercontent.com/VoThanhThuan/vtt/7a05eb93c42dcc42e5f1f9d4f6fc01a4d9b9b1ae/images/social_dashboard.svg" align = "left" width = 50%>
 <div>
 <h2  > Connect with me</h2>
   
@@ -133,5 +133,5 @@
 </p>
 <br>
 -----
-Credits: Võ Thành Thuận(https://github.com/VoThanhThuan)
+Credits: [Võ Thành Thuận](https://github.com/VoThanhThuan)
 Last Edited on: 07/05/2022
