@@ -25,7 +25,7 @@
 <a href="https://vothanhthuan.github.io/vtt/"><img src="https://github.com/VoThanhThuan/vtt/blob/master/images/qrcode_vothanhthuan.github.io.png?raw=true" width="200" height="200" alt="WebsiteQR"></a>
 </div>
 
-<img width="30%" align="right" alt="Github Header" src="https://github.com/VoThanhThuan/vtt/blob/master/images/coding_2.gif?raw=true" />
+<img width="30%" align="right" alt="Github Header" src="https://github.com/VoThanhThuan/vtt/blob/master/portfolio/images/coding_2.gif?raw=true" />
 
 <h3 align="left">Sở thích:</h3>
 
@@ -120,7 +120,7 @@
 <br>
 <p align='center'>
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
-<img src="https://github.com/VoThanhThuan/vtt/blob/master/images/DonateMe-qr-code.png?raw=true" width="200" height="200" frameBorder="0" allowFullScreen></img>
+<img src="https://github.com/VoThanhThuan/vtt/blob/master/portfolio/images/DonateMe-qr-code.png?raw=true" width="200" height="200" frameBorder="0" allowFullScreen></img>
 </p>
 <br>
 -----
