@@ -3,7 +3,7 @@
 <h3 align="center">Tôi là một người đam mê C#</h3>
 
 ## Dynamic Quotes 📜:
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&animation=grow_out_in&layout=zues&font=default)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <br>
 <b>"Ngủ 😴 là cách tốt nhất để phục hồi"</b>
