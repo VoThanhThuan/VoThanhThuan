@@ -22,7 +22,7 @@
 <div align="center">
 
 ## **Quét mã QR để xem Portfolio của tui 🤳**
-<a href="https://vothanhthuan.github.io/vtt/"><img src="https://github.com/VoThanhThuan/vtt/blob/master/images/qrcode_vothanhthuan.github.io.png?raw=true" width="200" height="200" alt="WebsiteQR"></a>
+<a href="https://vothanhthuan.github.io/vtt/"><img src="https://github.com/VoThanhThuan/vtt/blob/master/portfolio/images/qrcode_vothanhthuan.github.io.png?raw=true" width="200" height="200" alt="WebsiteQR"></a>
 </div>
 
 <img width="30%" align="right" alt="Github Header" src="https://github.com/VoThanhThuan/vtt/blob/master/portfolio/images/coding_2.gif?raw=true" />
